@@ -1,0 +1,116 @@
+{
+  "profile": {
+    "id": 1,
+    "full_name": "CHETAN SSS GURUNADHA SARMA VENTRAPRAGADA",
+    "role": "AI/ML Professional",
+    "bio": "Emerging AI/ML professional with a strong foundation in Python, Machine Learning, and Intelligent Systems development, and interested in leveraging practical experience to solve complex challenges in a cutting-edge environment.",
+    "email": "chetanvenrapragada19@gmail.com",
+    "linkedin_link": "https://www.linkedin.com/in/chetanventrapragada",
+    "github_link": "https://github.com/Chetan-1405"
+  },
+  "stats": {
+    "experienceYears": "2+",
+    "certifications": "4"
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Traffic rule violation detection and e-challan generation",
+      "description": "Real-time Violation Detection and Automated Evidence and ANPR for E-Challan Generation.",
+      "technologies": ["Computer Vision", "AI"],
+      "link": "https://github.com/Chetan-1405",
+      "image_url": ""
+    },
+    {
+      "id": 2,
+      "title": "AI Agent for News Fetching",
+      "description": "Designed a terminal-based Al agent for real-time news fetching and advanced information retrieval.",
+      "technologies": ["Python", "NLP", "Gemini"],
+      "link": "https://github.com/Chetan-1405",
+      "image_url": ""
+    },
+    {
+      "id": 3,
+      "title": "Caries Classification and Cancer Cell Detection with Explainable AI",
+      "description": "Developed deep learning models to classify dental caries and detect cancer cells from medical images. Integrated Explainable AI (Grad-CAM++) to visualize important regions influencing predictions, improving transparency and clinical trust.",
+      "technologies": ["Deep Learning", "Explainable AI", "Grad-CAM++"],
+      "link": "https://github.com/Chetan-1405",
+      "image_url": ""
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "company": "Winfo Solutions",
+      "role": "Machine Learning Engineer Intern",
+      "duration": "May 2025-July 2025",
+      "description": "Took ownership of building a standalone AI agent using Google ADK alongside a team developing a larger agent system. Delivered real-time news analysis capabilities using Google Search API and Gemini-powered NLP reasoning."
+    },
+    {
+      "id": 2,
+      "company": "Ratan Tata Innovation Hub",
+      "role": "Student Ambassador",
+      "duration": "Dec 2025 Present",
+      "description": "Acted as a student liaison between the innovation hub and campus community. Promoted startup culture, innovation programs, hackathons, and technical workshops. Coordinated events and helped onboard students to entrepreneurship and AI/ML initiatives."
+    },
+    {
+      "id": 3,
+      "company": "Dhanekula Institute of Engg and Tech",
+      "role": "Research Assistant",
+      "duration": "Jan 2024 Feb 2026",
+      "description": "Conducted research in Artificial Intelligence and Machine Learning with a focus on energy-efficient algorithms and intelligent systems. Worked on Soft Computing-Driven Energy-Efficient Algorithm Design integrating hybrid optimization and machine learning techniques."
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "institution": "Dhanekula Institute of Engg And Tech",
+      "degree": "Bachelor's Degree",
+      "duration": "2023-Present"
+    },
+    {
+      "id": 2,
+      "institution": "Sri Srinivasa Gravity Junior College",
+      "degree": "Intermediate",
+      "duration": "2021-2023"
+    },
+    {
+      "id": 3,
+      "institution": "Nirmala E.M High School",
+      "degree": "SSC",
+      "duration": "2020-2021"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Python",
+      "category": "Programming",
+      "icon": "python"
+    },
+    {
+      "id": 2,
+      "name": "C",
+      "category": "Programming",
+      "icon": "c-language"
+    },
+    {
+      "id": 3,
+      "name": "Artificial Intelligence",
+      "category": "AI/ML",
+      "icon": "ai-core"
+    },
+    {
+      "id": 4,
+      "name": "Machine Learning",
+      "category": "AI/ML",
+      "icon": "cpu"
+    },
+    {
+      "id": 5,
+      "name": "Computer Vision",
+      "category": "AI/ML",
+      "icon": "eye"
+    }
+  ]
+}
