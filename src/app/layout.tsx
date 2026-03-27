@@ -15,8 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Chetan Ventrapragada| AI/ML Professional",
-  description: "Portfolio of Chetan - AI/ML Professional
-Building digital experiences with code & creativity",
+  description: "Portfolio of Chetan - AI/ML Professional,Building digital experiences with code & creativity",
   icons: {
     icon: "/user.svg", 
   },
