@@ -14,8 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Yaswanth Vardhan | Full Stack & ML Developer",
-  description: "Portfolio of Yaswanth Vardhan Killampalli - A Full Stack Developer and ML Enthusiast specializing in React, Next.js, and AI-driven applications.",
+  title: "Chetan Ventrapragada| AI/ML Professional",
+  description: "Portfolio of Chetan - AI/ML Professional
+Building digital experiences with code & creativity",
   icons: {
     icon: "/user.svg", 
   },
