@@ -24,14 +24,14 @@ export function HeroSection({ profile }: HeroSectionProps) {
 
       <FadeIn delay={0.2}>
         <div className="mb-6 flex items-center gap-2 text-blue-400">
-          <span className="text-sm font-mono uppercase tracking-wider">Web Developer & Designer</span>
+          <span className="text-sm font-mono uppercase tracking-wider">AI/ML Professional</span>
         </div>
       </FadeIn>
 
       <ScaleIn delay={0.3}>
         <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
           <span className="inline-block bg-clip-text text-transparent bg-linear-to-r from-blue-400 via-blue-300 to-blue-500">
-            {profile?.full_name || "Yaswanth"}
+            {profile?.full_name || "Chetan Ventrapragada"}
           </span>
         </h1>
       </ScaleIn>
